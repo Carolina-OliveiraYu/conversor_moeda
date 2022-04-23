@@ -4,4 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto tem com o intuito demonstrar um pouco sobre utilização do Flutter usando chamadas para API da https://console.hgbrasil.com/ para adiquirir dados monetarios atualizados.
+
